@@ -157,7 +157,7 @@ This GPT transforms structured documents into **living dialogues**, bridging exp
 </tr>
 <tr style="background-color:#F4F7FB;">
 <td style="padding:10px;">GitHub Repository</td>
-<td style="padding:10px;">[https://github.com/Andragogy-Learning-Designer]</td>
+<td style="padding:10px;">https://chatgpt.com/g/g-68f24563a9848191bd23b21a091935ca-andragogy-learning-designer</td>
 </tr>
 <tr>
 <td style="padding:10px;">Portfolio / Website</td>
