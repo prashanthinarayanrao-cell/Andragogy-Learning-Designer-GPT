@@ -8,7 +8,7 @@
 **Created by:** Prashanthi  
 **Title/Role:** Senior Instructional Designer | Process Trainer | QA & Process Improvement Specialist | Gen AI & L&D Integration | Articulate 360 Storyline | Adaptive Learning & Prompt Engineering  
 **LinkedIn:** [https://www.linkedin.com/in/prashanthi-narayan-rao-343a3135b/]  
-**GitHub Repository:** (https://chatgpt.com/g/g-68f24563a9848191bd23b21a091935ca-andragogy-learning-designer) 
+**GitHub Repository:** https://chatgpt.com/g/g-68f24563a9848191bd23b21a091935ca-andragogy-learning-designer
 **Year:** 2025  
 
 </div>
